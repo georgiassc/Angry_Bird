@@ -1,2 +1,2 @@
-# Flappy_Bird
-Criação do jogo Flappy Bird para um trabalho academico 
+# Angry Birds 
+Criação do jogo Angry Bird para um trabalho academico 
